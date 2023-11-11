@@ -1,1 +1,1 @@
-# collect-the-treasure-2
+# CollectTheTreasure2
